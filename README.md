@@ -19,7 +19,7 @@ Includes input validation and an option to exit the program.
 - Java JDK 8 or higher  
 - VS Code 
 
-## 🏃 How to Run & Sample Output
+## How to Run & Sample Output
 
 > ✅ Note: The instructions and sample output are combined in one section for easier understanding.
 
